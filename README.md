@@ -1,7 +1,7 @@
 
 # Welcome aboard my code station <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 22 year old DevOps Engineer 🧑🏻‍💻 from India who loves space and exoplanets. I am currently working at NashTech India, working on client centered Cloud solutions. I am passionate about writing stuffs.
+Cloud & DevOps Engineer 🧑🏻‍💻 from India who loves space and exoplanets. I am currently working on Cloud native application modernization and migration solutions.
 
 I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
   
@@ -23,7 +23,6 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 
 - 👋 Hi, I’m Gaurav Shukla, A DevOps Engineer and a spiderman fan 🕷
 - 👀 I’m interested in Cloud Computing and DevOps. Web 3.0 & AI 🤖 is also fascinating isn't it?
-- 🌱 I’m currently learning DevOps and Cloud Computing in Knoldus Software LLP.
 - 💞️ I’m looking to collaborate on good open source projects where i can learn new technologies with contributing to the project.
 - 📫 How to reach me ...Just ping me at- 2000.shukla.gaurav@gmail.com
 
@@ -48,19 +47,59 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 2000-Gaurav/2000-Gaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav1858) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=2000-Gaurav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2000-Gaurav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2000-Gaurav&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+---
+### 🌐 Connect With Me:
+<p align="center">
+<a href="https://linkedin.com/in/gaurav1858" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
+<a href="https://instagram.com/gaurav_shukla.18" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/></a>
+<a href="https://x.com/DevopsX_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X" height="40" width="40"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=2000-Gaurav&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg" alt="GCP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/okta/okta-ar21~bgwhite.svg" alt="Okta" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21~bgwhite.svg" alt="Yaml" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21~bgwhite.svg" alt="Apache Tomcat" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21~bgwhite.svg" alt="Grafana" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21~bgwhite.svg" alt="Prometheus" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21~bgwhite.svg" alt="Splunk" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21~bgwhite.svg" alt="Datadog" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg" alt="Elastic-Search" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21~bgwhite.svg" alt="Logstash" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21~bgwhite.svg" alt="Kibana" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21~bgwhite.svg" alt="Cloudflare" width="60" height="180"/>
+  
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav1858&theme=radical" alt="GitHub Streak" width="60%"/>
+</p>
+<p align="center">
+  <alt="GitHub Streak" width="60%"/>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+  ✨ _Thanks for visiting!_ 🚀
